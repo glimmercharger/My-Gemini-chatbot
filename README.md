@@ -1,2 +1,2 @@
 # My-Gemini-chatbot
-This code utilises Google Gemini's AI to make a personal chatbot for you *No account required* so it can be more convenient for you! 
+This code utilises Google Gemini's AI to make a personal chatbot for you *No account required* so it can be more convenient for you! Add you need is a free Google API key
